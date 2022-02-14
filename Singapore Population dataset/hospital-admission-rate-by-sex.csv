@@ -1,0 +1,73 @@
+year,facility_type_a,sex,rate
+2009,Acute,Male,90.2
+2009,Acute,Female,96.4
+2009,Psychiatric Hospitals,Male,2.7
+2009,Psychiatric Hospitals,Female,1.6
+2009,Community Hospitals,Male,1.5
+2009,Community Hospitals,Female,1.9
+2010,Acute,Male,93.2
+2010,Acute,Female,98.3
+2010,Psychiatric Hospitals,Male,2.8
+2010,Psychiatric Hospitals,Female,1.7
+2010,Community Hospitals,Male,1.7
+2010,Community Hospitals,Female,2
+2011,Acute,Male,96.9
+2011,Acute,Female,102.7
+2011,Psychiatric Hospitals,Male,2.8
+2011,Psychiatric Hospitals,Female,1.6
+2011,Community Hospitals,Male,1.7
+2011,Community Hospitals,Female,2.1
+2012,Acute,Male,100.7
+2012,Acute,Female,105.5
+2012,Psychiatric Hospitals,Male,2.3
+2012,Psychiatric Hospitals,Female,1.4
+2012,Community Hospitals,Male,1.6
+2012,Community Hospitals,Female,2.1
+2013,Acute,Male,104.5
+2013,Acute,Female,107.7
+2013,Psychiatric Hospitals,Male,2.2
+2013,Psychiatric Hospitals,Female,1.4
+2013,Community Hospitals,Male,1.8
+2013,Community Hospitals,Female,2.3
+2014,Acute,Male,108.2
+2014,Acute,Female,111
+2014,Psychiatric Hospitals,Male,2.4
+2014,Psychiatric Hospitals,Female,1.4
+2014,Community Hospitals,Male,1.9
+2014,Community Hospitals,Female,2.4
+2015,Acute,Male,110.5
+2015,Acute,Female,111.9
+2015,Psychiatric Hospitals,Male,2.6
+2015,Psychiatric Hospitals,Female,1.6
+2015,Community Hospitals,Male,2.2
+2015,Community Hospitals,Female,2.7
+2016,Acute,Male,123.7
+2016,Acute,Female,123.4
+2016,Psychiatric Hospitals,Male,2.7
+2016,Psychiatric Hospitals,Female,1.6
+2016,Community Hospitals,Male,3.1
+2016,Community Hospitals,Female,3.7
+2017,Acute,Male,127.4
+2017,Acute,Female,127.4
+2017,Psychiatric Hospitals,Male,2.7
+2017,Psychiatric Hospitals,Female,1.6
+2017,Community Hospitals,Male,3.7
+2017,Community Hospitals,Female,4.3
+2018,Acute,Male,130
+2018,Acute,Female,129.6
+2018,Psychiatric Hospitals,Male,2.7
+2018,Psychiatric Hospitals,Female,1.5
+2018,Community Hospitals,Male,4.1
+2018,Community Hospitals,Female,4.6
+2019,Acute,Male,136.8
+2019,Acute,Female,135.6
+2019,Psychiatric Hospitals,Male,2.6
+2019,Psychiatric Hospitals,Female,1.6
+2019,Community Hospitals,Male,4.5
+2019,Community Hospitals,Female,5.1
+2020,Acute,Male,120.5
+2020,Acute,Female,116.3
+2020,Psychiatric Hospitals,Male,2.3
+2020,Psychiatric Hospitals,Female,1.4
+2020,Community Hospitals,Male,4.3
+2020,Community Hospitals,Female,4.3
